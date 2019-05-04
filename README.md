@@ -1,4 +1,4 @@
-# awesome-gdpr
+# awesome-GDPR
 Awesome GDPR resources and tools for privacy professionals
 
 ### Overview of the General Data Protection Regulation
@@ -12,5 +12,9 @@ Awesome GDPR resources and tools for privacy professionals
   * [Platform for Privacy Preferences Project (P3P)](https://en.wikipedia.org/wiki/P3P)
   
 ### Organisations:
+  * [European Data Protection Board](https://edpb.europa.eu/)
   * [Electronic Frontier Foundation](https://www.eff.org/)
   * [International Association of Privacy Professionals](https://iapp.org/)
+
+### Other resources:
+  * See also my [Wiki for more about privacy](https://hwiki.bakke.be/privacy)
