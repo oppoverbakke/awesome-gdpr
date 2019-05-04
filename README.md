@@ -6,7 +6,7 @@ Awesome GDPR resources and tools for privacy professionals
   * https://www.sandtro.no/gdpr/ (Norwegian translation with connection to preamble and relevant articles)
   
 ### Data Protection Impact Assessments (DPIA)
-  * [Open sources DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
+  * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
   
 ### Ideas for better privacy:
   * [Platform for Privacy Preferences Project (P3P)](https://en.wikipedia.org/wiki/P3P)
