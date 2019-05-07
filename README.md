@@ -8,9 +8,6 @@ Awesome GDPR resources and tools for privacy professionals
 ### Data Protection Impact Assessments (DPIA)
   * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
   
-### Ideas for better privacy:
-  * [Platform for Privacy Preferences Project (P3P)](https://en.wikipedia.org/wiki/P3P)
-  
 ### Organisations:
   * [European Data Protection Board](https://edpb.europa.eu/)
   * [Electronic Frontier Foundation](https://www.eff.org/)
