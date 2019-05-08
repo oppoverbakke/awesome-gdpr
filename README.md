@@ -8,6 +8,10 @@ Awesome GDPR resources and tools for privacy professionals
 ### Data Protection Impact Assessments (DPIA)
   * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
   
+### Incident management
+  * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
+  * [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
+  
 ### Organisations:
   * [European Data Protection Board](https://edpb.europa.eu/)
   * [Electronic Frontier Foundation](https://www.eff.org/)
