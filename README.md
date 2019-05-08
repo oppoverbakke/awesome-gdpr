@@ -12,6 +12,7 @@ Awesome GDPR resources and tools for privacy professionals
   * [European Data Protection Board](https://edpb.europa.eu/)
   * [Electronic Frontier Foundation](https://www.eff.org/)
   * [International Association of Privacy Professionals](https://iapp.org/)
+  * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/)
 
 ### Other resources:
   * See also my [Wiki for more about privacy](https://hwiki.bakke.be/privacy)
