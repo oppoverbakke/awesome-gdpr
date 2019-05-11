@@ -18,6 +18,10 @@ Awesome GDPR resources and tools for privacy professionals
   * [International Association of Privacy Professionals](https://iapp.org/)
   * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/)
   * [GDPR Today](https://www.gdprtoday.org/)
+  * [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog
 
 ### Other resources:
   * See also my [Wiki for more about privacy](https://hwiki.bakke.be/privacy)
+  
+### Related:
+  * [Security](https://app.gitbook.com/@bakke92/s/hwiki/security)
