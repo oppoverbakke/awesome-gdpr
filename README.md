@@ -14,7 +14,7 @@ Awesome GDPR resources and tools for privacy professionals
   * [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
   
 ### Organisations:
-  * [European Data Protection Board](https://edpb.europa.eu/)
+  * [European Data Protection Board](https://edpb.europa.eu/) --> [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) --> [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
   * [Electronic Frontier Foundation](https://www.eff.org/)
   * [International Association of Privacy Professionals](https://iapp.org/)
   * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/)
