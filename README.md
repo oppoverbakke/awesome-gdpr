@@ -4,7 +4,7 @@ Awesome GDPR resources and tools for privacy professionals
 ### Overview of the General Data Protection Regulation
   * [GDPR-info](https://gdpr-info.eu/) - Related articles and text in the preamble.
   * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - compare the Regulation and the Directive. Related in preamble. Choose different countries for comparison.
-  * [Personvernforordningen / Jan Sandtrø](https://www.sandtro.no/gdpr/) - Norwegian translation with connection to preamble and relevant articles.
+  * [🇳🇴 Personvernforordningen / Jan Sandtrø](https://www.sandtro.no/gdpr/) - Norwegian translation with connection to preamble and relevant articles.
   
 ### Data Protection Impact Assessments (DPIA)
   * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
@@ -22,7 +22,7 @@ Awesome GDPR resources and tools for privacy professionals
   * [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog
 
 ### Other resources:
-  * See also my [Wiki for more about privacy](https://hwiki.bakke.be/privacy)
+  * See also my [Wiki for more related to privacy](https://hwiki.bakke.be/privacy)
   
 ### Related:
   * [Security](https://app.gitbook.com/@bakke92/s/hwiki/security)
