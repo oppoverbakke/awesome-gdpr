@@ -2,7 +2,7 @@
 Awesome GDPR resources and tools for privacy professionals
 
 ### Overview of the General Data Protection Regulation
-  * [GDPR-info](https://gdpr-info.eu/ - Related articles and text in the preamble.
+  * [GDPR-info](https://gdpr-info.eu/) - Related articles and text in the preamble.
   * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - compare the Regulation and the Directive. Related in preamble. Choose different countries for comparison.
   * [Personvernforordningen / Jan Sandtrø](https://www.sandtro.no/gdpr/) - Norwegian translation with connection to preamble and relevant articles.
   
