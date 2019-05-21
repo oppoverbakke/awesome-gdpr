@@ -25,4 +25,4 @@ Awesome GDPR resources and tools for privacy professionals
   * See also my [Wiki for more related to privacy](https://hwiki.bakke.be/privacy)
   
 ### Related:
-  * [Security](https://app.gitbook.com/@bakke92/s/hwiki/security)
+  * [Security](https://hwiki.bakke.be/security) - My list of security related content
