@@ -6,10 +6,14 @@ Awesome GDPR resources and tools for privacy professionals
   * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - compare the Regulation, Directive and National legislation. Linked to relevant section in preamble.
   * [🇳🇴 Personvernforordningen / Jan Sandtrø](https://www.sandtro.no/gdpr/) - Norwegian translation. Linked with relevant articles and preamble.
   
-### Guidelines and papers
+### Guidelines
   * [EDPB:](https://edpb.europa.eu/)--> [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) --> [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
-  * [Sandra Watcher - papers](https://scholar.google.com/citations?user=ZXBJVqYAAAAJ&hl=en) - Professor at University of Oxford
   * [ICO: Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
+  
+### Books, blogs & papers
+  * [Sandra Watcher - papers](https://scholar.google.com/citations?user=ZXBJVqYAAAAJ&hl=en) - Professor at University of Oxford
+  * [GDPR Today](https://www.gdprtoday.org/)
+  * [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog
   
 ### Data Protection Impact Assessments (DPIA)
   * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
@@ -26,8 +30,6 @@ Awesome GDPR resources and tools for privacy professionals
   * [Electronic Frontier Foundation](https://www.eff.org/)
   * [International Association of Privacy Professionals](https://iapp.org/)
   * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection)
-  * [GDPR Today](https://www.gdprtoday.org/)
-  * [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog
 
 ### Other resources:
   * See also my [Wiki for more related to privacy](https://hwiki.bakke.be/privacy)
