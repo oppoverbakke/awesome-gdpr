@@ -1,10 +1,10 @@
-# awesome-GDPR
+# awesome-GDPR 
 Awesome GDPR resources and tools for privacy professionals
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ### Overview of the General Data Protection Regulation
-  * [GDPR-info](https://gdpr-info.eu/) - Linked to relevant articles and section in the preamble.
-  * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - compare the Regulation, Directive and National legislation. Linked to relevant section in preamble.
-  * [🇳🇴 Personvernforordningen / Jan Sandtrø](https://www.sandtro.no/gdpr/) - Norwegian translation. Linked with relevant articles and preamble.
+  * [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble.
+  * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - Compare the Regulation, Directive and National legislation. Linked to relevant section in preamble.
   
 ### Guidelines
   * [EDPB:](https://edpb.europa.eu/)--> [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) --> [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
