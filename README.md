@@ -1,6 +1,5 @@
-# awesome-GDPR 
+# awesome-GDPR [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 Awesome GDPR resources and tools for privacy professionals
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ## Overview of the General Data Protection Regulation
   * [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble.
@@ -25,15 +24,15 @@ Awesome GDPR resources and tools for privacy professionals
   * [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
   * [IAPP: Security Breach Response Plan Toolkit](https://iapp.org/resources/article/security-breach-response-plan-toolkit/)
   
-## Organisations:
+## Organisations
   * [European Data Protection Board](https://edpb.europa.eu/)
   * [European Data Protection Supervisor](https://edps.europa.eu/)
   * [Electronic Frontier Foundation](https://www.eff.org/)
   * [International Association of Privacy Professionals](https://iapp.org/)
   * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection)
 
-## Other resources:
+## Other resources
   * See also my [Wiki for more related to privacy](https://hwiki.bakke.be/privacy)
   
-## Related:
+## Related
   * [Security](https://hwiki.bakke.be/security) - My list of security related content
