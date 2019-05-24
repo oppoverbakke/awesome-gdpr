@@ -22,7 +22,8 @@ Awesome GDPR resources and tools for privacy professionals
 ### Incident management
   * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
   * [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
-  * [Data breach disclosure 101: How to succeed after you've failed](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
+  * [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
+  * [IAPP: Security Breach Response Plan Toolkit](https://iapp.org/resources/article/security-breach-response-plan-toolkit/)
   
 ### Organisations:
   * [European Data Protection Board](https://edpb.europa.eu/)
