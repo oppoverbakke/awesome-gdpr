@@ -1,5 +1,6 @@
 # awesome-GDPR
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 Awesome GDPR resources and tools for privacy professionals
 
 ## Contents
