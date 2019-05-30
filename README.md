@@ -1,7 +1,7 @@
 # awesome-GDPR
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Awesome GDPR resources and tools for privacy professionals
+Awesome GDPR resources and tools for privacy professionals.
 
 ## Contents
   * [Overview of the General Data Protection Regulation](#Overview-of-GDPR)
@@ -21,9 +21,9 @@ Awesome GDPR resources and tools for privacy professionals
   * [ICO: Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
   
 ## Books, blogs & papers
-  * [Sandra Watcher - papers](https://scholar.google.com/citations?user=ZXBJVqYAAAAJ&hl=en) - Professor at University of Oxford
-  * [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group
-  * [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog
+  * [Sandra Watcher - papers](https://scholar.google.com/citations?user=ZXBJVqYAAAAJ&hl=en) - Professor at University of Oxford.
+  * [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group.
+  * [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog.
   
 ## Data Protection Impact Assessments (DPIA)
   * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
