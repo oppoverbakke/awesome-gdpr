@@ -1,7 +1,17 @@
-# awesome-GDPR [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# awesome-GDPR
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 Awesome GDPR resources and tools for privacy professionals
 
-## Overview of the General Data Protection Regulation
+## Contents
+  * [Overview of the General Data Protection Regulation](#Overview-of-GDPR)
+  * [Guidelines](#Guidelines)
+  * [Books, blogs & papers](#Books, blogs & papers)
+  * []()
+  * []()
+  * []()
+  * []()
+
+## Overview of GDPR
   * [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble.
   * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - Compare the Regulation, Directive and National legislation. Linked to relevant section in preamble.
   
@@ -11,7 +21,7 @@ Awesome GDPR resources and tools for privacy professionals
   
 ## Books, blogs & papers
   * [Sandra Watcher - papers](https://scholar.google.com/citations?user=ZXBJVqYAAAAJ&hl=en) - Professor at University of Oxford
-  * [GDPR Today](https://www.gdprtoday.org/)
+  * [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group
   * [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog
   
 ## Data Protection Impact Assessments (DPIA)
@@ -23,6 +33,7 @@ Awesome GDPR resources and tools for privacy professionals
   * [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
   * [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
   * [IAPP: Security Breach Response Plan Toolkit](https://iapp.org/resources/article/security-breach-response-plan-toolkit/)
+  * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
   
 ## Organisations
   * [European Data Protection Board](https://edpb.europa.eu/)
@@ -30,9 +41,12 @@ Awesome GDPR resources and tools for privacy professionals
   * [Electronic Frontier Foundation](https://www.eff.org/)
   * [International Association of Privacy Professionals](https://iapp.org/)
   * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection)
-
-## Other resources
-  * See also my [Wiki for more related to privacy](https://hwiki.bakke.be/privacy)
   
-## Related
-  * [Security](https://hwiki.bakke.be/security) - My list of security related content
+## Related Awesome lists
+  * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
+  * [Security](https://github.com/sindresorhus/awesome#security)
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+CC0
+To the extent possible is this list not copyrighted.
