@@ -44,6 +44,6 @@ Awesome GDPR resources and tools for privacy professionals.
   * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection)
   * [Privacy International](https://www.privacyinternational.org)
   
-## Related Awesome lists
+## Related
   * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
-  * [Security](https://github.com/sindresorhus/awesome#security)
+  * [Awesome: Security](https://github.com/sindresorhus/awesome#security)
