@@ -1,5 +1,5 @@
 # awesome-GDPR
-![GDPR logo](GDPR.jpg)
+![GDPR logo](GDPR.png)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -19,11 +19,10 @@ Awesome GDPR resources and tools for privacy professionals.
   * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - Compare the Regulation, Directive and National legislation. Linked to relevant section in preamble.
   
 ## Guidelines
-  * [EDPB:](https://edpb.europa.eu/)--> [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) --> [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
+  * EDPB: [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) & [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
   * [ICO: Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
   
 ## Books, blogs & papers
-  * [Sandra Watcher - papers](https://scholar.google.com/citations?user=ZXBJVqYAAAAJ&hl=en) - Professor at University of Oxford.
   * [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group.
   * [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog.
   
@@ -52,3 +51,4 @@ Awesome GDPR resources and tools for privacy professionals.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+This work is licensed under 
