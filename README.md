@@ -1,5 +1,7 @@
 # awesome-GDPR
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) License: [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+![GDPR logo](GDPR.jpg)
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Awesome GDPR resources and tools for privacy professionals.
 
@@ -42,8 +44,11 @@ Awesome GDPR resources and tools for privacy professionals.
   * [Electronic Frontier Foundation](https://www.eff.org/)
   * [International Association of Privacy Professionals](https://iapp.org/)
   * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection)
-  * [Privacy International](https://www.privacyinternational.org)
-  
+  * [Privacy International](https://www.privacyinternational.org)¨
+    
 ## Related
   * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
   * [Awesome: Security](https://github.com/sindresorhus/awesome#security)
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
