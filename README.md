@@ -45,6 +45,7 @@ Awesome GDPR resources and tools for privacy professionals.
   * [International Association of Privacy Professionals](https://iapp.org/)
   * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection)
   * [Privacy International](https://www.privacyinternational.org)¨
+  * Data Protection Authorities: [United Kingdom](https://ico.org.uk/) - [France](https://www.cnil.fr/en/home) - [Norway](https://www.datatilsynet.no/en/) - [Denmark](https://www.datatilsynet.dk/english/)
     
 ## Related
   * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
@@ -52,4 +53,4 @@ Awesome GDPR resources and tools for privacy professionals.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-This work is licensed under 
+To the extent possible under law, Harald O. Bakke has waived all copyright and related or neighboring rights to this work.
