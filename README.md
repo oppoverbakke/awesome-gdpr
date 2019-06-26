@@ -36,7 +36,7 @@ Awesome GDPR resources and tools for privacy professionals.
   * [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
   * [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
   * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
-  * [GDPR Enforcement Tracker](http://www.enforcementtracker.com/)
+  * [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - overview of fines and penalties.
   
 ## Organisations
   * [European Data Protection Board](https://edpb.europa.eu/)
