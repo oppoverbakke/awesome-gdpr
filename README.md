@@ -12,6 +12,7 @@ Awesome GDPR resources and tools for privacy professionals.
   * [Data Protection Impact Assessments (DPIA)](#data-protection-impact-assessments-dpia)
   * [Incident management](#incident-management)
   * [Organisations](#Organisations)
+  * [Solutions providers](#Solutions-providers)
   * [Related Awesome lists](#related-awesome-lists)
 
 ## Overview of GDPR
@@ -46,6 +47,13 @@ Awesome GDPR resources and tools for privacy professionals.
   * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection)
   * [Privacy International](https://www.privacyinternational.org)¨
   * Data Protection Authorities: [United Kingdom](https://ico.org.uk/) - [France](https://www.cnil.fr/en/home) - [Norway](https://www.datatilsynet.no/en/) - [Denmark](https://www.datatilsynet.dk/english/)
+  
+## Solutions providers
+  * [OneTrust](https://www.onetrust.com/)
+  * [TrustArc](https://www.trustarc.com/)
+  * [Privitar](https://www.privitar.com/)
+  * [BigID](https://bigid.com/)
+  * [Wirewheel](https://wirewheel.io)
     
 ## Related
   * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
