@@ -45,7 +45,7 @@ Awesome GDPR resources and tools for privacy professionals.
   * [Electronic Frontier Foundation](https://www.eff.org/)
   * [International Association of Privacy Professionals](https://iapp.org/)
   * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection)
-  * [Privacy International](https://www.privacyinternational.org)¨
+  * [Privacy International](https://www.privacyinternational.org)
   * Data Protection Authorities: [United Kingdom](https://ico.org.uk/) - [France](https://www.cnil.fr/en/home) - [Norway](https://www.datatilsynet.no/en/) - [Denmark](https://www.datatilsynet.dk/english/)
   * [NOYB](https://noyb.eu/)
   
