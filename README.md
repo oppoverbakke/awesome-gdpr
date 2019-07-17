@@ -39,7 +39,7 @@ Awesome GDPR resources and tools for privacy professionals.
   * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
   * [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - overview of fines and penalties.
   
-## Organisations
+## Organisations / Projects
   * [European Data Protection Board](https://edpb.europa.eu/)
   * [European Data Protection Supervisor](https://edps.europa.eu/)
   * [Electronic Frontier Foundation](https://www.eff.org/)
@@ -48,6 +48,7 @@ Awesome GDPR resources and tools for privacy professionals.
   * [Privacy International](https://www.privacyinternational.org)
   * Data Protection Authorities: [United Kingdom](https://ico.org.uk/) - [France](https://www.cnil.fr/en/home) - [Norway](https://www.datatilsynet.no/en/) - [Denmark](https://www.datatilsynet.dk/english/)
   * [NOYB](https://noyb.eu/)
+  * [GDPR.eu](https://gdpr.eu/)
   
 ## Solutions providers
   * [OneTrust](https://www.onetrust.com/)
