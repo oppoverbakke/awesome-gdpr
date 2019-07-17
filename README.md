@@ -11,7 +11,7 @@ Awesome GDPR resources and tools for privacy professionals.
   * [Books, blogs & papers](#books-blogs--papers)
   * [Data Protection Impact Assessments (DPIA)](#data-protection-impact-assessments-dpia)
   * [Incident management](#incident-management)
-  * [Organisations](#Organisations)
+  * [Organisations / Projects](#Organisations)
   * [Solutions providers](#Solutions-providers)
   * [Related Awesome lists](#related-awesome-lists)
 
