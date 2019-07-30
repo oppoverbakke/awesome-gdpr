@@ -56,6 +56,7 @@ Awesome GDPR resources and tools for privacy professionals.
   * [Privitar](https://www.privitar.com/)
   * [BigID](https://bigid.com/)
   * [Wirewheel](https://wirewheel.io)
+  * [Collibra](https://www.collibra.com)
     
 ## Related
   * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
