@@ -49,6 +49,7 @@ Awesome GDPR resources and tools for privacy professionals.
   * Data Protection Authorities: [United Kingdom](https://ico.org.uk/) - [France](https://www.cnil.fr/en/home) - [Norway](https://www.datatilsynet.no/en/) - [Denmark](https://www.datatilsynet.dk/english/)
   * [NOYB](https://noyb.eu/)
   * [GDPR.eu](https://gdpr.eu/)
+  * [CyLab Usable Privacy and Security Laboratory](http://cups.cs.cmu.edu/)
   
 ## Solutions providers
   * [OneTrust](https://www.onetrust.com/)
