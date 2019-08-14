@@ -8,7 +8,7 @@ Awesome GDPR resources and tools for privacy professionals.
 ## Contents
   * [Overview of the General Data Protection Regulation](#Overview-of-GDPR)
   * [Guidelines](#Guidelines)
-  * [Books, blogs & papers](#books-blogs--papers)
+  * [Blogs](#Blogs)
   * [Data Protection Impact Assessments (DPIA)](#data-protection-impact-assessments-dpia)
   * [Incident management](#incident-management)
   * [Organisations / Projects](#organisations--projects)
@@ -23,7 +23,7 @@ Awesome GDPR resources and tools for privacy professionals.
   * EDPB: [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) & [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
   * [ICO: Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
   
-## Books, blogs & papers
+## Blogs
   * [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group.
   * [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog.
   
