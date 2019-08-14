@@ -38,18 +38,24 @@ Awesome GDPR resources and tools for privacy professionals.
   * [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
   * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
   * [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - overview of fines and penalties.
+ 
+## Data Protection Authorities 
+  * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
+  * [European Data Protection Supervisor](https://edps.europa.eu/) - EDPS.
+  * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection) - ENISA.
+  * [United Kingdom](https://ico.org.uk/) - ICO.
+  * [France](https://www.cnil.fr/en/home) - CNIL.
+  * [Norway](https://www.datatilsynet.no/en/) - Datatilsynet.
+  * [Denmark](https://www.datatilsynet.dk/english/) - Datatilsynet.
   
 ## Organisations / Projects
-  * [European Data Protection Board](https://edpb.europa.eu/)
-  * [European Data Protection Supervisor](https://edps.europa.eu/)
-  * [Electronic Frontier Foundation](https://www.eff.org/)
-  * [International Association of Privacy Professionals](https://iapp.org/)
-  * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection)
-  * [Privacy International](https://www.privacyinternational.org)
-  * Data Protection Authorities: [United Kingdom](https://ico.org.uk/) - [France](https://www.cnil.fr/en/home) - [Norway](https://www.datatilsynet.no/en/) - [Denmark](https://www.datatilsynet.dk/english/)
-  * [NOYB](https://noyb.eu/)
-  * [GDPR.eu](https://gdpr.eu/)
-  * [CyLab Usable Privacy and Security Laboratory](http://cups.cs.cmu.edu/)
+
+  * [Electronic Frontier Foundation](https://www.eff.org/) - Nonprofit defending digital privacy, free speech, and innovation.
+  * [International Association of Privacy Professionals](https://iapp.org/) - A resource for privacy professionals.
+  * [Privacy International](https://www.privacyinternational.org) - Charity that challenges the governments and companies that want to know everything about individuals, groups, and whole societies.
+  * [NOYB](https://noyb.eu/) - Organisation that brings important issues to the attention of DPAs, enforces the law in civil court or directly engages with companies.
+  * [GDPR.eu](https://gdpr.eu/) - Resource for organisations and individuals researching the GDPR (Not official website).
+  * [CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) - Research related to understand and improving the usability of privacy and security.
   
 ## Solutions providers
   * [OneTrust](https://www.onetrust.com/)
