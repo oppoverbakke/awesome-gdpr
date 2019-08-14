@@ -1,7 +1,7 @@
-# awesome-GDPR
-![GDPR logo](GDPR.png)
+# awesome-GDPR [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[<img src="GDPR.png" align="right" width="100">](https://github.com/bakke92/awesome-gdpr)
+
 
 Awesome GDPR resources and tools for privacy professionals.
 
