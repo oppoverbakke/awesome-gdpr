@@ -43,10 +43,10 @@ Awesome GDPR resources and tools for privacy professionals.
   * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
   * [European Data Protection Supervisor](https://edps.europa.eu/) - EDPS.
   * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection) - ENISA.
-  * [United Kingdom](https://ico.org.uk/) - ICO.
-  * [France](https://www.cnil.fr/en/home) - CNIL.
-  * [Norway](https://www.datatilsynet.no/en/) - Datatilsynet.
-  * [Denmark](https://www.datatilsynet.dk/english/) - Datatilsynet.
+  * [Information Commissioner's Office (ICO)](https://ico.org.uk/) - United Kingdom.
+  * [CNIL](https://www.cnil.fr/en/home) - France.
+  * [Datatilsynet.no](https://www.datatilsynet.no/en/) - Norway.
+  * [Datatilsynet.dk](https://www.datatilsynet.dk/english/) - Denmark.
   
 ## Organisations / Projects
 
