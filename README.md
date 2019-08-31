@@ -3,7 +3,7 @@
 [<img src="GDPR.png" align="right" width="300">](https://github.com/bakke92/awesome-gdpr)
 
 
-Awesome GDPR resources and tools for privacy professionals.
+Privacy regulation in Europe.
 
 ## Contents
   * [Overview of the General Data Protection Regulation](#Overview-of-GDPR)
