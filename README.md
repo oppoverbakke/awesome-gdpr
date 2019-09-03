@@ -13,7 +13,7 @@ Privacy regulation in Europe.
   * [Incident management](#incident-management)
   * [Organisations / Projects](#organisations--projects)
   * [Solutions providers](#Solutions-providers)
-  * [Related Awesome lists](#related-awesome-lists)
+  * [Related](#Related)
 
 ## Overview of GDPR
   * [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble.
