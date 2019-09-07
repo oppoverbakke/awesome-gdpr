@@ -27,6 +27,7 @@ Privacy regulation in Europe.
   * [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group.
   * [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog.
   * [Freedom To Tinker](https://freedom-to-tinker.com/) - Blog from Princeton's CITP, a research center that studies digital technologies in public life.
+  * [pdpEcho](https://pdpecho.com/) - All about personal data protection and privacy, by Gabriela Zanfir-Fortuna.
   
 ## Data Protection Impact Assessments (DPIA)
   * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
@@ -48,6 +49,7 @@ Privacy regulation in Europe.
   * [CNIL](https://www.cnil.fr/en/home) - France.
   * [Datatilsynet.no](https://www.datatilsynet.no/en/) - Norway.
   * [Datatilsynet.dk](https://www.datatilsynet.dk/english/) - Denmark.
+  * [List of DPAs](https://pdpecho.com/the-list/)
   
 ## Organisations / Projects
 
@@ -57,6 +59,8 @@ Privacy regulation in Europe.
   * [NOYB](https://noyb.eu/) - Organisation that brings important issues to the attention of DPAs, enforces the law in civil court or directly engages with companies.
   * [GDPR.eu](https://gdpr.eu/) - Resource for organisations and individuals researching the GDPR (Not official website).
   * [CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) - Research related to understand and improving the usability of privacy and security.
+  * [EPIC](https://epic.org/) - Electronic Privacy Information Center.
+  * [Future of Privacy Forum](https://fpf.org/) - Catalyst for privacy leadership and scholarship, advancing principled data practices in support of emerging technologies.
   
 ## Solutions providers
   * [OneTrust](https://www.onetrust.com/)
