@@ -15,7 +15,7 @@ Privacy regulation in Europe.
   * [Solutions providers](#Solutions-providers)
   * [Related](#Related)
 
-## Overview of GDPR
+## Overview of the General Data Protection Regulation
   * [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble.
   * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - Compare the Regulation, Directive and National legislation. Linked to relevant section in preamble.
   
