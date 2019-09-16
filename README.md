@@ -6,7 +6,7 @@
 Privacy regulation in Europe.
 
 ## Contents
-  * [Overview of the General Data Protection Regulation](#Overview-of-GDPR)
+  * [Overview of the General Data Protection Regulation](#overview-of-the-general-data-protection-regulation)
   * [Guidelines](#Guidelines)
   * [Blogs](#Blogs)
   * [Data Protection Impact Assessments (DPIA)](#data-protection-impact-assessments-dpia)
