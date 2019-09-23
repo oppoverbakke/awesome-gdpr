@@ -6,16 +6,17 @@
 Privacy regulation in Europe.
 
 ## Contents
-  * [Overview of the General Data Protection Regulation](#overview-of-the-general-data-protection-regulation)
-  * [Guidelines](#Guidelines)
-  * [Blogs](#Blogs)
-  * [Data Protection Impact Assessments (DPIA)](#data-protection-impact-assessments-dpia)
-  * [Incident management](#incident-management)
-  * [Organisations / Projects](#organisations--projects)
-  * [Solutions providers](#Solutions-providers)
-  * [Related](#Related)
+* [](#overview-of-the-general-data-protection-regulation)
+* [Guidelines](#Guidelines)
+* [Blogs](#Blogs)
+* [Data Protection Impact Assessments (DPIA)](#data-protection-impact-assessments-dpia)
+* [Incident management](#incident-management)
+* [Organisations / Projects](#organisations--projects)
+* [Solutions providers](#Solutions-providers)
+* [Related](#Related)
 
-## Overview of the General Data Protection Regulation
+## Legal text
+ 
   * [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble.
   * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - Compare the Regulation, Directive and National legislation. Linked to relevant section in preamble.
   
@@ -52,7 +53,6 @@ Privacy regulation in Europe.
   * [List of DPAs](https://pdpecho.com/the-list/)
   
 ## Organisations / Projects
-
   * [Electronic Frontier Foundation](https://www.eff.org/) - Nonprofit defending digital privacy, free speech, and innovation.
   * [International Association of Privacy Professionals](https://iapp.org/) - A resource for privacy professionals.
   * [Privacy International](https://www.privacyinternational.org) - Charity that challenges the governments and companies that want to know everything about individuals, groups, and whole societies.
