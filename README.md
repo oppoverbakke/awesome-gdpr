@@ -3,7 +3,7 @@
 [<img src="GDPR.png" align="right" width="300">](https://github.com/bakke92/awesome-gdpr)
 
 
-Privacy regulation in Europe.
+Privacy regulation in Europe .
 
 ## Contents
 * [Legal text](#legal-text)
@@ -16,6 +16,7 @@ Privacy regulation in Europe.
 * [Related](#Related)
 
 ## Legal text
+* [GDPR (2016/679)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) - Official version of GDPR.
 * [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble.
 * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - Compare the Regulation, Directive and National legislation. Linked to relevant section in preamble.
   
