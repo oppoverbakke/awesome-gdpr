@@ -2,8 +2,7 @@
 
 [<img src="GDPR.png" align="right" width="300">](https://github.com/bakke92/awesome-gdpr)
 
-
-Privacy regulation in Europe .
+The General Data Protection Regulation (GDPR) is a regulation on data protection and privacy for all individuals within the European Union and the European Economic Area. The regulation has incresed the focus on privacy in companies and strengthened the data subjects rights.
 
 ## Contents
 * [Legal text](#legal-text)
