@@ -2,7 +2,7 @@
 
 [<img src="GDPR.png" align="right" width="300">](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
 
-The General Data Protection Regulation (GDPR) is a regulation on data protection and privacy for all individuals within the European Union and the European Economic Area. The regulation has incresed the focus on privacy in companies and strengthened the data subjects rights.
+The General Data Protection Regulation (GDPR) is a regulation on data protection and privacy for all individuals within the European Union and the European Economic Area. The regulation has increased the focus on privacy in companies and strengthened the data subjects influence.
 
 ## Contents
 * [Legal text](#legal-text)
