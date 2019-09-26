@@ -69,6 +69,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 * [Awesome: Security](https://github.com/sindresorhus/awesome#security)
 * [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme)
+* [Awesome: Privacy](https://github.com/KevinColemanInc/awesome-privacy#readme)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
