@@ -9,6 +9,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Guidelines](#Guidelines)
 * [Blogs](#Blogs)
 * [Data Protection Impact Assessments (DPIA)](#data-protection-impact-assessments-dpia)
+* [Tools](#tools)
 * [Incident management](#incident-management)
 * [Organisations / Projects](#organisations--projects)
 * [Solutions providers](#Solutions-providers)
