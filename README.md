@@ -10,6 +10,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Blogs](#Blogs)
 * [Data Protection Impact Assessments (DPIA)](#data-protection-impact-assessments-dpia)
 * [Tools](#tools)
+* [Security (art. 32)]()
 * [Incident management](#incident-management)
 * [Organisations / Projects](#organisations--projects)
 * [Solutions providers](#Solutions-providers)
@@ -40,6 +41,10 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 
 ## Tools
 * [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
+
+## Security (art. 32)
+* [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
+* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Concise collection of high value information on specific application security topics.
   
 ## Incident management
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
