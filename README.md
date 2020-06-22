@@ -11,6 +11,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Data Protection Impact Assessments (DPIA)](#data-protection-impact-assessments-dpia)
 * [Tools](#tools)
 * [Security (art. 32)](#security-art-32)
+* [Privacy by Design - Guides for developers (art. 15)]()
 * [Incident management](#incident-management)
 * [Organisations / Projects](#organisations--projects)
 * [Solutions providers](#Solutions-providers)
@@ -20,6 +21,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [GDPR (2016/679)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) - Official version of GDPR.
 * [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble (Non-official site).
 * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - Compare the Regulation, Directive and National legislation. Linked to relevant section in preamble (Non-official site).
+* [Searchable GDPR](https://gdpr.algolia.com/)
   
 ## Guidelines
 * EDPB: [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) & [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
@@ -41,6 +43,10 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 
 ## Tools
 * [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
+
+## Privacy by Design - Guides for developers (art. 15)
+* [CNIL - GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
+* [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/)
 
 ## Security (art. 32)
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
