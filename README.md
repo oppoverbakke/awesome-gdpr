@@ -52,6 +52,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 ## Security (art. 32)
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Concise collection of high value information on specific application security topics.
+* [ARX - Data Anonymization Tool](https://arx.deidentifier.org/) - Open source software for anonymizing sensitive personal data.
   
 ## Incident management
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
