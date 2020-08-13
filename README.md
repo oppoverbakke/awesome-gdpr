@@ -46,6 +46,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 
 ## Tools
 * [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
+* [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - Map of the level of data protection in each country.
 
 ## Privacy by Design - Guides for developers (art. 15)
 * [CNIL - GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
