@@ -7,13 +7,14 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 ## Contents
 * [Legal text](#legal-text)
 * [Guidelines](#Guidelines)
-* [Blogs](#Blogs)
-* [Data Protection Impact Assessments (DPIA)](#data-protection-impact-assessments-dpia)
-* [Tools](#tools)
-* [Security (art. 32)](#security-art-32)
 * [Privacy by Design - Guides for developers (art. 15)](#privacy-by-design---guides-for-developers-art-15)
-* [Incident management](#incident-management)
+* [Data Protection Impact Assessments (DPIA, art. 25)](#data-protection-impact-assessments-dpia-art-25)
+* [Incident management (art. 33 and 34)](#incident-management-art-33-and-34)
+* [Security (art. 32)](#security-art-32)
+* [Tools](#tools)
+* [Data Protection Authorities](#data-protection-authorities)
 * [Organisations / Projects](#organisations--projects)
+* [Publications](#Publications)
 * [Solutions providers](#Solutions-providers)
 * [Related](#Related)
 
@@ -28,13 +29,6 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [ICO: Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 * [Handbook on European data protection law ](https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1) - Handbook issued by EU.
 * EDPS: [Factsheets](https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en) - Factsheets from EU Data Protection Supervisor.
-  
-## Blogs
-* [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group.
-* [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog.
-* [Freedom To Tinker](https://freedom-to-tinker.com/) - Blog from Princeton's CITP, a research center that studies digital technologies in public life.
-* [pdpEcho](https://pdpecho.com/) - All about personal data protection and privacy, by Gabriela Zanfir-Fortuna.
-* [GDPRhub](https://gdprhub.eu/) - Free and open wiki that allows anyone to find and share GDPR insights across Europe.
   
 ## Privacy by Design - Guides for developers (art. 15)
 * [CNIL - GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
@@ -78,14 +72,13 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [EPIC](https://epic.org/) - Electronic Privacy Information Center.
 * [Future of Privacy Forum](https://fpf.org/) - Catalyst for privacy leadership and scholarship, advancing principled data practices in support of emerging technologies.
 * [W3C Privacy Interest Group](https://www.w3.org/Privacy/) - Leading the web to its full potential.
-  
-## Solutions providers
-* [OneTrust](https://www.onetrust.com/)
-* [TrustArc](https://www.trustarc.com/)
-* [Privitar](https://www.privitar.com/)
-* [BigID](https://bigid.com/)
-* [Wirewheel](https://wirewheel.io)
-* [Collibra](https://www.collibra.com)
+
+## Publications
+* [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group.
+* [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog.
+* [Freedom To Tinker](https://freedom-to-tinker.com/) - Blog from Princeton's CITP, a research center that studies digital technologies in public life.
+* [pdpEcho](https://pdpecho.com/) - All about personal data protection and privacy, by Gabriela Zanfir-Fortuna.
+* [GDPRhub](https://gdprhub.eu/) - Free and open wiki that allows anyone to find and share GDPR insights across Europe.
     
 ## Related
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
