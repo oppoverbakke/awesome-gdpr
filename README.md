@@ -7,10 +7,10 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 ## Contents
 * [Legal text](#legal-text)
 * [Guidelines](#Guidelines)
-* [Privacy by Design - Guides for developers (art. 15)](#privacy-by-design---guides-for-developers-art-15)
-* [Data Protection Impact Assessments (DPIA, art. 25)](#data-protection-impact-assessments-dpia-art-25)
-* [Incident management (art. 33 and 34)](#incident-management-art-33-and-34)
+* [Privacy by Design - Guides for developers (art. 25)](#privacy-by-design---guides-for-developers-art-25)
 * [Security (art. 32)](#security-art-32)
+* [Incident management (art. 33 and 34)](#incident-management-art-33-and-34)
+* [Data Protection Impact Assessments (DPIA, art. 35)](#data-protection-impact-assessments-dpia-art-35)
 * [Tools](#tools)
 * [Data Protection Authorities](#data-protection-authorities)
 * [Organisations / Projects](#organisations--projects)
@@ -30,15 +30,14 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Handbook on European data protection law ](https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1) - Handbook issued by EU.
 * EDPS: [Factsheets](https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en) - Factsheets from EU Data Protection Supervisor.
   
-## Privacy by Design - Guides for developers (art. 15)
+## Privacy by Design - Guides for developers (art. 25)
 * [CNIL - GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
 * [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/)
 
-## Data Protection Impact Assessments (DPIA, art. 25)
-* [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
-* [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
-* [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
-* [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
+## Security (art. 32)
+* [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
+* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Concise collection of high value information on specific application security topics.
+* [ARX - Data Anonymization Tool](https://arx.deidentifier.org/) - Open source software for anonymizing sensitive personal data.
 
 ## Incident management (art. 33 and 34)
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
@@ -47,10 +46,11 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 * [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
 
-## Security (art. 32)
-* [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
-* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Concise collection of high value information on specific application security topics.
-* [ARX - Data Anonymization Tool](https://arx.deidentifier.org/) - Open source software for anonymizing sensitive personal data.
+## Data Protection Impact Assessments (DPIA, art. 35)
+* [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
+* [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
+* [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
+* [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
 
 ## Tools
 * [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
