@@ -7,7 +7,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 ## Contents
 * [Legal text](#legal-text)
 * [Guidelines](#Guidelines)
-* [Rights of the data subject (art. 12 - 23)]()
+* [Rights of the data subject (art. 12 - 23)](#rights-of-the-data-subject-art-12---23)
 * [Privacy by Design - Guides for developers (art. 25)](#privacy-by-design---guides-for-developers-art-25)
 * [Security (art. 32)](#security-art-32)
 * [Incident management (art. 33 and 34)](#incident-management-art-33-and-34)
