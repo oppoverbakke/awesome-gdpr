@@ -62,6 +62,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
 * [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country. 
 * [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
+* [GDPR Data Protection Impact Assessment Tool](https://github.com/simonarnell/GDPRDPIAT) - A GDPR Data Protection Impact Assessment (DPIA) tool to assist organisations to evaluate data protection risks with respect to the EU's General Data Protection Regulation. 🇪🇺
  
 ## Data Protection Authorities 
 * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
