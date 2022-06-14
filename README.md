@@ -13,7 +13,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Incident management (art. 33 and 34)](#incident-management-art-33-and-34)
 * [Data Protection Impact Assessments (DPIA, art. 35)](#data-protection-impact-assessments-dpia-art-35)
 * [Tools](#tools)
-* [Data Protection Authorities](#data-protection-authorities)
+* [Data Protection Authorities](#data-protection-authorities-art-51--59)
 * [Organisations / Projects](#organisations--projects)
 * [Publications](#Publications)
 * [Solutions providers](#Solutions-providers)
