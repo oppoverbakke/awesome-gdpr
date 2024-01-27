@@ -9,6 +9,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Guidelines](#Guidelines)
 * [Rights of the data subject (art. 12 - 23)](#rights-of-the-data-subject-art-12---23)
 * [Privacy by Design - Guides for developers (art. 25)](#privacy-by-design---guides-for-developers-art-25)
+* [Records of Processing (art. 30)]()
 * [Security (art. 32)](#security-art-32)
 * [Incident management (art. 33 and 34)](#incident-management-art-33-and-34)
 * [Data Protection Impact Assessments (DPIA, art. 35)](#data-protection-impact-assessments-dpia-art-35)
@@ -39,6 +40,9 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/data-protection-by-design-and-by-default/)
 * [Data Pseudonymisation: Advanced Techniques and Use Cases](https://www.enisa.europa.eu/publications/data-pseudonymisation-advanced-techniques-and-use-cases/) - Report on pseudonymisation techniques from ENISA.
 * [Anonymisation, pseudonymisation and privacy enhancing technologies guidance - ICO](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)
+
+## Records of Processing (art. 30)
+* [Iubenda - Register of data processing activities](https://www.iubenda.com/en/internal-privacy-management)
 
 ## Security (art. 32)
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
