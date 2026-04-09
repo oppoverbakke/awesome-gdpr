@@ -68,6 +68,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Website Evidence Collector (WEC)](https://www.edps.europa.eu/edps-inspection-software_en) - EDPS Inspection Software.
 * [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country. 
 * [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
+* [CookieBoss](https://cookieboss.io) - Edge-compiled cookie consent platform with Google Consent Mode v2, IAB TCF 2.2, and geo-targeted consent rules (GDPR/CCPA/LGPD). Under 25KB per script. Free tier available.
  
 ## Data Protection Authorities (art. 51 -59)
 * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
