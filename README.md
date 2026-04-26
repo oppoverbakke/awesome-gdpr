@@ -94,6 +94,10 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [pdpEcho](https://pdpecho.com/) - All about personal data protection and privacy, by Gabriela Zanfir-Fortuna.
 * [GDPRhub](https://gdprhub.eu/) - Free and open wiki that allows anyone to find and share GDPR insights across Europe.
     
+## Solutions providers
+* [Cloud-IAM](https://cloud-iam.com/) - Managed Keycloak IAM as a Service, certified ISO 27001:2022, SOC 2 Type 2, HDS, and SecNumCloud 3.2 with a 100% European team.
+* [France Nuage](https://france-nuage.fr/) - Sovereign open-source cloud (SSPL-1.0) hosted 100% in France, GDPR-native with ISO 27001 and SOC 2 certifications.
+
 ## Related
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 * [Awesome: Security](https://github.com/sindresorhus/awesome#security)
