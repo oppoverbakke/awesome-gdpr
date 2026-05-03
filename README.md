@@ -69,6 +69,8 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country. 
 * [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
  
+* [GuardForge](https://github.com/MAXIAWORLD/guardforge) - Open-source PII anonymization for LLM pipelines. Detects 17 PII types (emails, phone, credit cards, IBAN, SSN, API keys, JWT, Bitcoin addresses). GDPR-compliant. Docker deploy, REST API.
+ 
 ## Data Protection Authorities (art. 51 -59)
 * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
 * [European Data Protection Supervisor](https://edps.europa.eu/) - EDPS.
