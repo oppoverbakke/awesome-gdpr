@@ -44,6 +44,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 
 ## Records of Processing (art. 30)
 * [Iubenda - Register of data processing activities](https://www.iubenda.com/en/internal-privacy-management)
+* [EuroComply ROPA Generator](https://eurocomply.app/tools/ropa-generator) - Build an Article 30 Record of Processing Activities in-browser. Covers processing activities, lawful bases, data categories, retention periods and international transfers. Download as Markdown. No signup, no data retained.
 
 ## Security (art. 32)
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
@@ -56,6 +57,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
 * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 * [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
+* [EU Regulatory Fines Tracker](https://eurocomply.app/fines) - Live tracker of GDPR fines and penalties, sourced from CNIL, BfDI, AEPD, Garante, DPC, AP and EDPB. Covers GDPR, NIS2, AI Act and DORA. Sortable by authority, company, amount and regulation.
 
 ## Data Protection Impact Assessments (DPIA, art. 35)
 * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
@@ -68,6 +70,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Website Evidence Collector (WEC)](https://www.edps.europa.eu/edps-inspection-software_en) - EDPS Inspection Software.
 * [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country. 
 * [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
+* [EuroComply Free GDPR Tools](https://eurocomply.app/free-tools) - Article 83 fine calculator, Article 30 ROPA generator, GDPR scope checker, and multi-regulation fine risk calculator. Browser-based, no signup required.
  
 ## Data Protection Authorities (art. 51 -59)
 * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
