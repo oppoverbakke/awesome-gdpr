@@ -68,6 +68,8 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Website Evidence Collector (WEC)](https://www.edps.europa.eu/edps-inspection-software_en) - EDPS Inspection Software.
 * [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country. 
 * [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
+* [dcm-anon-vault](https://github.com/Ces107/dcm-anon-vault) - DICOM anonymizer with verbatim-cited GDPR Art. 9 / Art. 35 manifest and SHA-256 chained audit trail. MIT, Python.
+* [ehds-anon-kit](https://github.com/plusultra-tools/ehds-anon-kit) - Anonymization pipeline for European Health Data Space secondary-use requests, mapping Art. 4(1) personal data definitions to per-field actions. MIT, Python.
  
 ## Data Protection Authorities (art. 51 -59)
 * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
