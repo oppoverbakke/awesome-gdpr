@@ -68,6 +68,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country. 
 * [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
 * [Comparison of Consent Management Platforms](https://github.com/JermainKroot/best-consent-management-platforms) - Hands-on comparison of 9 platforms.
+* [ScanBell](https://scanbell.nl/) - Technical consent regression checks for public website default, reject, and accept states; not a legal compliance determination.
 
 ## Data Protection Authorities (art. 51 -59)
 * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
