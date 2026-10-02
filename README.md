@@ -40,6 +40,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Data Pseudonymisation: Advanced Techniques and Use Cases](https://www.enisa.europa.eu/publications/data-pseudonymisation-advanced-techniques-and-use-cases/) - Report on pseudonymisation techniques from ENISA.
 * [Anonymisation, pseudonymisation and privacy enhancing technologies guidance - ICO](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)
 * [dstack](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
+* [Contexte Tech - GDPR guardrail for LLMs](https://contextetech.com/en/guardrails/masquer-donnees-personnelles-rgpd-pd95sh) - Free open-source guardrail (in French) that masks personal data such as emails, phone numbers, IBANs and social security numbers before text reaches an LLM.
 
 ## Records of Processing (art. 30)
 * [Iubenda - Register of data processing activities](https://www.iubenda.com/en/internal-privacy-management)
