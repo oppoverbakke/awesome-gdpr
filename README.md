@@ -13,6 +13,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Security (art. 32)](#security-art-32)
 * [Incident management (art. 33 and 34)](#incident-management-art-33-and-34)
 * [Data Protection Impact Assessments (DPIA, art. 35)](#data-protection-impact-assessments-dpia-art-35)
+* [Training and awareness (art. 39)](#training-and-awareness-art-39)
 * [Tools](#tools)
 * [Data Protection Authorities](#data-protection-authorities-art-51--59)
 * [Organisations / Projects](#organisations--projects)
@@ -62,6 +63,9 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/86012.html)
 * [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
 * [Public DPIA Teams OneDrive SharePoint and Azure AD](https://www.rijksoverheid.nl/documenten/publicaties/2022/02/21/public-dpia-teams-onedrive-sharepoint-and-azure-ad) -  DPIA of Microsoft Teams in combination with OneDrive, SharePoint Online and the Azure Active Directory.
+
+## Training and awareness (art. 39)
+* [RansomLeak GDPR Training](https://ransomleak.com/catalogue/privacy-compliance/) - Interactive exercises on lawful bases, DSAR handling, breach response, DPIA, records of processing, and cross-border transfers.
 
 ## Tools
 * [Website Evidence Collector (WEC)](https://www.edps.europa.eu/edps-inspection-software_en) - EDPS Inspection Software.
