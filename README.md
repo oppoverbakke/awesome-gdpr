@@ -41,6 +41,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Data Pseudonymisation: Advanced Techniques and Use Cases](https://www.enisa.europa.eu/publications/data-pseudonymisation-advanced-techniques-and-use-cases/) - Report on pseudonymisation techniques from ENISA.
 * [Anonymisation, pseudonymisation and privacy enhancing technologies guidance - ICO](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)
 * [dstack](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
+* [sectionsight](https://github.com/Majny/sectionsight) - Agent skill for coding agents such as Claude Code that builds cookieless website analytics by design: totals for everyone, per-visit data only for visitors who consent, enforced retention, a "Delete my visit data" button, and a headless-browser check that nothing is stored before consent and no e-mail or token from the URL is sent.
 
 ## Records of Processing (art. 30)
 * [Iubenda - Register of data processing activities](https://www.iubenda.com/en/internal-privacy-management)
