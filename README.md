@@ -48,6 +48,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 ## Security (art. 32)
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Concise collection of high value information on specific application security topics.
+* [Staff Access Review Checklist](https://apify.momiji-space.com/tools/staff-access-review-checklist/) - Free browser tool to build a store staff-permission review checklist.
 * [Anonymisation, pseudonymisation and privacy enhancing technologies guidance](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)
 
 ## Incident management (art. 33 and 34)
