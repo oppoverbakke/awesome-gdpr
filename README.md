@@ -74,6 +74,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
 * [Comparison of Consent Management Platforms](https://github.com/JermainKroot/best-consent-management-platforms) - Hands-on comparison of 9 platforms.
 * [disclosedby](https://disclosedby.com) - Dated record of the subprocessor lists software companies publish under art. 28, with what changed and when; open JSON, Markdown and an MCP server.
+* [rgpd-offshore-check](https://github.com/kanibal-studio/rgpd-offshore-check) - CLI that turns a JSON description of a customer-service outsourcing set-up outside the EU/EEA into a GDPR gap report (Chapter V transfers, SCC, TIA, art. 28, 32 and 33).
 
 ## Data Protection Authorities (art. 51 -59)
 * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
