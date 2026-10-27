@@ -74,6 +74,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
 * [Comparison of Consent Management Platforms](https://github.com/JermainKroot/best-consent-management-platforms) - Hands-on comparison of 9 platforms.
 * [disclosedby](https://disclosedby.com) - Dated record of the subprocessor lists software companies publish under art. 28, with what changed and when; open JSON, Markdown and an MCP server.
+* [voltage-verify](https://github.com/VoltageGPU/voltage-verify) - Open-source CLI that verifies offline that a cloud GPU VM is a non-debug Intel TDX trust domain with attested NVIDIA GPUs, bound to a manifest you wrote, to test that security measure (art. 32(1)(d)).
 
 ## Data Protection Authorities (art. 51 -59)
 * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
