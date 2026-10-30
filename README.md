@@ -44,6 +44,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 
 ## Records of Processing (art. 30)
 * [Iubenda - Register of data processing activities](https://www.iubenda.com/en/internal-privacy-management)
+* [DACH GDPR + EU AI Act Art.50 Transparency Pack](https://payhip.com/b/RzuVi) - Art. 30 record, Art. 32 TOMs and Art. 33 incident templates for self-hosted n8n; not legal advice (paid).
 
 ## Security (art. 32)
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
