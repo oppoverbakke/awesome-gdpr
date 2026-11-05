@@ -99,6 +99,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Freedom To Tinker](https://freedom-to-tinker.com/) - Blog from Princeton's CITP, a research center that studies digital technologies in public life.
 * [pdpEcho](https://pdpecho.com/) - All about personal data protection and privacy, by Gabriela Zanfir-Fortuna.
 * [GDPRhub](https://gdprhub.eu/) - Free and open wiki that allows anyone to find and share GDPR insights across Europe.
+* [Open Source Analytics](https://opensource-analytics.com/) - Editorial guides on privacy-friendly, self-hosted and open-source web analytics.
     
 ## Related
 * [PIPEDA vs GDPR: What Canadian Companies Must Know](https://traztech.ca/blog/pipeda-vs-gdpr) - Comparison of Canadian and EU privacy regulations for companies operating in both jurisdictions.
