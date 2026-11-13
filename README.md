@@ -33,6 +33,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Factsheets](https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en) - Factsheets from EU Data Protection Supervisor.
   
 ## Rights of the data subject (art. 12 - 23)
+* [DSAR Check](https://dsarcheck.com) - Free generator for data subject access requests under the GDPR (art. 15), UK GDPR and CCPA, with a response-deadline checker and guides to big companies' privacy contacts.
 * [Open source privacy notice template (Juro)](https://github.com/juro-privacy/free-privacy-notice)
 
 ## Privacy by Design - Guides for developers (art. 25)
