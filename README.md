@@ -63,6 +63,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/86012.html)
 * [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
 * [Public DPIA Teams OneDrive SharePoint and Azure AD](https://www.rijksoverheid.nl/documenten/publicaties/2022/02/21/public-dpia-teams-onedrive-sharepoint-and-azure-ad) -  DPIA of Microsoft Teams in combination with OneDrive, SharePoint Online and the Azure Active Directory.
+* [Janus Compliance DPIA tool](https://www.januscompliance.co.uk/tools/dpia) - Conversational DPIA tool that screens whether a DPIA is required under UK GDPR (ICO list) or the EU GDPR in Ireland (DPC list), then drafts the assessment as you answer. Free to complete; the Word download is paid.
 
 ## Training and awareness (art. 39)
 * [RansomLeak GDPR Training](https://ransomleak.com/catalogue/privacy-compliance/) - Interactive exercises on lawful bases, DSAR handling, breach response, DPIA, records of processing, and cross-border transfers.
